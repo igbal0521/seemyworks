@@ -14,8 +14,8 @@ document.getElementsByClassName("img-div")[0].style.backgroundImage=`url('./asse
             case 1:
                 document.getElementById("project-head").innerText="calc"
                 document.getElementById("project-para").innerText="Dice represent a means of control, or at least the illusion of control, and that is why they are still popular today. How ironic it is that the same tool used to tell us about our lives is also used for games!";
-                document.getElementById("project-code").href="";
-                document.getElementById("project-page").href="";
+                document.getElementById("project-code").href="https://github.com/igbal0521/calculator.git";
+                document.getElementById("project-page").href="https://igbal0521.github.io/calculator/";
                 break;
             case 2:
                     document.getElementById("project-head").innerText="clock";
@@ -69,8 +69,8 @@ document.getElementsByClassName("img-div")[0].style.backgroundImage=`url('./asse
             case 1:
                 document.getElementById("project-head").innerText="calc"
                 document.getElementById("project-para").innerText="Dice represent a means of control, or at least the illusion of control, and that is why they are still popular today. How ironic it is that the same tool used to tell us about our lives is also used for games!";
-                document.getElementById("project-code").href="";
-                document.getElementById("project-page").href="";
+                document.getElementById("project-code").href="https://github.com/igbal0521/calculator.git";
+                document.getElementById("project-page").href="https://igbal0521.github.io/calculator/";
                 break;
             case 2:
                     document.getElementById("project-head").innerText="clock";
